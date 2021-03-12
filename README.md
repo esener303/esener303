@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esener303
-- 👀 I’m interested in Azure, DevOps, .NET and many more
+- 👀 I’m interested in .NET, Azure, DevOps, Automations and many more
 - 🌱 I’m currently learning DevOps
 - 📫 Reach me here or at esener303@gmail.com 
 
