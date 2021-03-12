@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esener303
 - 👀 I’m interested in Azure, DevOps, .NET and many more
 - 🌱 I’m currently learning DevOps
-- 📫 How to reach me here 
+- 📫 Reach me here or at esener303@gmail.com 
 
 <!---
 esener303/esener303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
