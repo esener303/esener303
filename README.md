@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @esener303
-- 👀 I’m interested in .NET, Azure, DevOps, Automations and many more
+- 👋 Hi, I’m Michał aka esener303
+- 👀 I’m interested in Public Clouds, DevOps, Azure, Automations, .NET Core & .NET and many more ...
 - 🌱 I’m certified Azure DevOps Engineer and extending skillset as Azure Architect 
 - 📫 Reach me here or at esener303@gmail.com 
 
