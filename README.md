@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esener303
 - 👀 I’m interested in .NET, Azure, DevOps, Automations and many more
-- 🌱 I’m currently DevOps Engineer and extending skillset as Azure Architekt 
+- 🌱 I’m certified Azure DevOps Engineer and extending skillset as Azure Architect 
 - 📫 Reach me here or at esener303@gmail.com 
 
 <!---
