@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esener303&label=Profile%20views&color=0e75b6&style=flat" alt="esener303" /> </p>
 
-- 🔭 I’m currently working on **to many projects**
+- 🔭 I’m currently working on **to many projects ;]**
 
-- 🌱 I’m currently learning **to be an better DevOps and Azure Architect**
+- 🌱 I’m currently learning **DevOps and Cloud Architect**
 
-- 👯 I’m looking to collaborate on **DevOps & OpenSource projects **
+- 👯 I’m looking to collaborate on **DevOps & OpenSource projects**
 
 - 📝 I regularly write articles on [https://sharepointdevelopmentblog.wordpress.com](https://sharepointdevelopmentblog.wordpress.com)
 
-- 💬 Ask me about **SharePoint or Azure DevOps**
+- 💬 Ask me about **SharePoint, Azure DevOps or Infrastructure as a Code**
 
 - 📫 How to reach me **esener303@gmail.com**
 
