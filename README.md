@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **to many projects**
 
-- 🌱 I’m currently learning **to be an Azure Architect**
+- 🌱 I’m currently learning **to be an better DevOps and Azure Architect**
 
-- 👯 I’m looking to collaborate on **DevOps projects**
+- 👯 I’m looking to collaborate on **DevOps & OpenSource projects **
 
 - 📝 I regularly write articles on [https://sharepointdevelopmentblog.wordpress.com](https://sharepointdevelopmentblog.wordpress.com)
 
