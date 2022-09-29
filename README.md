@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esener303&label=Profile%20views&color=0e75b6&style=flat" alt="esener303" /> </p>
 
-- 🔭 I’m currently working on **to many projects ;]**
+- 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **DevOps and Cloud Architect**
 
@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/michaldemczyszak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaldemczyszak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:5449984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:5449984" height="30" width="40" /></a>
 <a href="https://instagram.com/3l3c7ro.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3l3c7ro.ai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/esener303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="esener303" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/esener303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="esener303" height="30" width="40" /></a>
 </p>
 
