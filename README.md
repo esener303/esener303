@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michał Demczyszak</h1>
-<h3 align="center">I’m certified Azure DevOps Engineer and extending skillset as Azure Architect</h3>
+<h3 align="center">I’m certified Azure DevOps Engineer and extending skillset into Azure Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esener303&label=Profile%20views&color=0e75b6&style=flat" alt="esener303" /> </p>
 
-- 🔭 I’m currently working on project as **Azure DevOps Engineer**
+- 🔭 I’m currently working on enterprise project as **Azure DevOps Engineer** with great team of other **DevOps Engineer's**
 
 - 🌱 I’m currently learning **DevOps and Cloud Architect roles**
 
