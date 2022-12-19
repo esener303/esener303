@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on enterprise project as **Azure DevOps Engineer** with great team of other **DevOps Engineer's**
 
-- 🌱 I’m currently learning **DevOps and Cloud Architect roles**
+- 🌱 I’m still learning **DevOps and little od Cloud Architect roles**
 
 - 👯 I’m looking to collaborate on **DevOps & OpenSource projects**
 
