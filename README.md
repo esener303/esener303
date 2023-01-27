@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on enterprise project as **Azure DevOps Engineer** with great team of other **DevOps Engineer's**
 
-- 🌱 I’m still learning **DevOps and little od Cloud Architect roles**
+- 🌱 I’m still learning **DevOps and little of Cloud Architect roles**
 
-- 👯 I’m looking to collaborate on **DevOps & OpenSource projects**
+- 👯 I’m looking to collaborate on **DevOps/GitOps & OpenSource projects**
 
 - 📝 I regularly write articles on [https://sharepointdevelopmentblog.wordpress.com](https://sharepointdevelopmentblog.wordpress.com)
 
-- 💬 Ask me about **SharePoint, Azure Cloud, Azure DevOps or Infrastructure as a Code**
+- 💬 Ask me about **SharePoint, Azure Cloud, Azure DevOps, GitOps/GitFlow or Infrastructure as a Code**
 
 - 📫 How to reach me **esener303@gmail.com**
 
