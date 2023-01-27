@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps/GitOps & OpenSource projects**
 
-- 📝 I regularly write articles on [https://sharepointdevelopmentblog.wordpress.com](https://sharepointdevelopmentblog.wordpress.com)
+- 📝 I regularly write articles on [https://sharepointdevelopmentblog.wordpress.com](https://sharepointdevelopmentblog.wordpress.com) since 2015.
 
 - 💬 Ask me about **SharePoint, Azure Cloud, Azure DevOps, GitOps/GitFlow or Infrastructure as a Code**
 
