@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Michał Demczyszak</h1>
-<h3 align="center">I’m certified Azure DevOps Engineer and extending skillset into Azure Architect</h3>
+<h3 align="center">I’m certified DevOps Engineer and extending skillset into Azure Architect / Cloud Security Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esener303&label=Profile%20views&color=0e75b6&style=flat" alt="esener303" /> </p>
 
-- 🔭 I’m currently working on enterprise project as **Azure DevOps Engineer** with great team of other **DevOps Engineer's**
+- 🔭 I’m currently working on enterprise project as **DevOps Engineer** with great team of other **DevOps Engineer's**
 
-- 🌱 I’m still learning **DevOps and little of Cloud Architect roles**
+- 🌱 I’m still learning **DevOps/DevSecOps and Cloud Architect, Cloud Security Engineer roles**
 
-- 👯 I’m looking to collaborate on **DevOps/GitOps & OpenSource projects**
+- 👯 I’m looking to collaborate on **DevSecOps/GitOps & Enterprise projects**
 
 - 📝 I regularly write articles on [https://sharepointdevelopmentblog.wordpress.com](https://sharepointdevelopmentblog.wordpress.com) since 2015.
 
-- 💬 Ask me about **SharePoint, Azure Cloud, Azure DevOps, GitOps/GitFlow or Infrastructure as a Code**
+- 💬 Ask me about **Azure Cloud, Azure Kubernetes Service, Azure DevOps, DevOps/DevSecOps, GitOps/GitFlow or Infrastructure as a Code**
 
 - 📫 How to reach me **esener303@gmail.com**
 
