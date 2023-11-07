@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esener303&label=Profile%20views&color=0e75b6&style=flat" alt="esener303" /> </p>
 
-- 🔭 I’m currently working on enterprise project as **DevOps Engineer** with great team of other **DevOps Engineer's**
+- 🔭 I’m currently working on enterprise project as **DevOps/Cloud Engineer** with great team of other **DevOps/Cloud Engineer's**
 
 - 🌱 I’m still learning **DevOps/DevSecOps and Cloud Architect, Cloud Security Engineer roles**
 
