@@ -1,33 +1,73 @@
-<h1 align="center">Michał Demczyszak</h1>
-<h3 align="center">Azure DevOps & Cloud Engineer | Certified DevOps Engineer | Cloud Security & Architect Aspirant</h3>
+<div align="center">
 
-<p align="center">
+# 👋 Hi, I'm Michał Demczyszak
+
+### ☁️ Azure DevOps & Cloud Engineer | 🔐 Certified DevOps Engineer | 🎯 Cloud Security & Architect Aspirant
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=esener303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-DevSecOps-blue?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoft-azure" alt="Azure" />
 </p>
 
-🔹 **DevOps & Cloud Engineer** with extensive experience delivering secure, scalable infrastructure for enterprise and finance environments. :contentReference[oaicite:0]{index=0}  
-🔹 Passionate about **DevSecOps**, **Cloud Architecture**, GitOps, and Cloud Security Engineering.  
-🔹 Strong focus on automation, CI/CD, Kubernetes, Infrastructure as Code, observability, and modern cloud practices.  
-🔹 Skilled in bridging technical delivery with business outcomes through clear documentation, dependable systems, and collaborative culture. :contentReference[oaicite:1]{index=1}
+</div>
 
----
+<br>
 
-### 🚀 What I’m Doing
-- 🔭 **Currently working on enterprise-scale cloud & DevOps initiatives** as a DevOps/Cloud Engineer in a collaborative, high-performance team. :contentReference[oaicite:2]{index=2}  
-- 🌱 Continuously expanding skills toward **Azure Architect & Cloud Security Engineering**.  
-- 👯 Open to collaboration on **DevSecOps, GitOps, and enterprise automation projects**.  
+## 🚀 About Me
 
----
+```yaml
+role: DevOps & Cloud Engineer
+experience: Enterprise & Finance Infrastructure
+passion:
+  - DevSecOps
+  - Cloud Architecture
+  - GitOps
+  - Cloud Security Engineering
+focus:
+  - Automation & CI/CD
+  - Kubernetes & AKS
+  - Infrastructure as Code
+  - Observability
+  - Modern Cloud Practices
+approach: "Bridging technical delivery with business outcomes"
+```
 
-### 💡 About Me
-- 📝 I regularly write technical posts and insights on my blog: https://sharepointdevelopmentblog.wordpress.com  
-- 💬 Ask me about:
-  - Azure Cloud & AKS
-  - DevOps & DevSecOps
-  - GitOps & GitFlow
-  - Infrastructure as Code (Terraform, Bicep)
-  - CI/CD & automation
-- 📫 Email: **esener303@gmail.com**
+<br>
+
+## 💼 What I'm Doing
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Current Focus
+Working on **enterprise-scale cloud & DevOps initiatives** in a collaborative, high-performance team
+
+### 🌱 Learning & Growth
+Continuously expanding toward **Azure Architect** & **Cloud Security Engineering**
+
+### 👯 Open to Collaborate
+DevSecOps, GitOps, and enterprise automation projects
+
+</td>
+<td width="50%">
+
+### 💬 Ask Me About
+
+- ☁️ Azure Cloud & AKS
+- 🔒 DevOps & DevSecOps
+- 🔄 GitOps & GitFlow
+- 🏗️ Infrastructure as Code (Terraform, Bicep)
+- ⚙️ CI/CD & Automation
+
+### 📝 Blog & Contact
+- 📰 [Technical Blog](https://sharepointdevelopmentblog.wordpress.com)
+- 📧 esener303@gmail.com
+
+</td>
+</tr>
+</table>
 
 ---
 
